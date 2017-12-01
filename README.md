@@ -1,0 +1,2 @@
+# programozas_dolgozatok
+Dogak
