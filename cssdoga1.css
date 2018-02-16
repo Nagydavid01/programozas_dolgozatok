@@ -1,0 +1,75 @@
+/*csslint order-alphabetical: false*/
+body
+{
+  background-color: black;
+   background-size:cover;
+   margin:0;
+}
+
+.fejlec
+{
+background-color: black;
+   text-align: center;
+   width: 515px;
+   border-bottom: 1px solid white;
+   margin: 0 auto;
+   
+   
+   
+}
+
+.fas {
+    margin-right: 5px;
+}
+
+.menupont
+{
+   color:black;
+   display: inline-block;
+   width: 125px;
+   font-size: 20px;
+   line-height: 35px;
+   position: relative;
+    color: white;
+    font-family: verdana;
+    margin: 8 8 8 8;
+    padding: 10px 0;
+}
+
+footer { 
+    width: 100%; 
+    color: white; 
+    text-align: center; 
+    background: #212121; 
+    height: 60px; 
+    padding-top: 20px; 
+    font-size: 12px 
+    }
+
+
+
+.doboz {
+    background-color: darkgray;
+    color: white;
+    width: 62%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-left: 35px;
+    margin-top: 30px;
+}
+
+.ora {
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.kep {
+    text-align: center;
+    padding: 10px;
+
+}
+
+.kep img{
+    width: 450px;
+    height: 350px;
+}
